@@ -1,3 +1,3 @@
 # ProjetoTCC
 
-Sistema de gerenciamente Salão de beleza
+Sistema de gerenciamento de Salão de beleza
